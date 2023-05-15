@@ -3,7 +3,7 @@ import React from 'react';
 
 const MainFile = () => {
     return ( 
-        <div className="body">
+        <div className="">
             <h1 className="heading">Tiny Url Maker</h1>
             <p className="heading-text">Make Your Big Url Short With Us.</p>
 
